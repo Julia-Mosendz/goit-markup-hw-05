@@ -613,3 +613,7 @@ padding: 72px 24px 24px 24px;
     display: block;
     margin-bottom: 4px;
 }
+
+.container-in-modal-label {
+    position: relative;
+}
