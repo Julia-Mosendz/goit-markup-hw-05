@@ -509,6 +509,10 @@ fill: #f4f4fd;
     color: #ffffff;
 }
 
+.footer-input::placeholder {
+    color: #ffffff;
+  
+}
 .backdrop {
 position: fixed; 
 top: 0;
