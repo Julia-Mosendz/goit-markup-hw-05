@@ -579,10 +579,10 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .icon-close {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.icon-close:hover {
+.modal-button:hover .icon-close{
     fill: #ffffff;
 }
 
-.icon-close:focus {
+.modal-button:focus .icon-close{
     fill: #ffffff;
 }
